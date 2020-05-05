@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-PHP 7.*, Mysql.
+PHP 7.2.*, Mysql.
 
 ### Installation Guide
 
